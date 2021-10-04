@@ -8,20 +8,11 @@ Kelas : Grafika Komputer D
 
 ---
 
-## Tugas 1
-
-Silakan @here melakukan instruksi di bawah ini:
-
-1. Cari benda di sekitar Anda yang berawalan huruf D, I, atau N.
-2. Letakkan benda tersebut di atas permukaan datar: meja, lantai, dsb.
-3. Ambil foto benda tersebut dari empat sudut pandang yang berbeda: kanan atas, kiri atas, belakang atas, depan atas (sudut kemiringan bebas).
-4. Klik URL undangan tugas berikut: https://classroom.github.com/a/SKvSEvo4, untuk memulai pembuatan repo tugas Anda di GitHub.
-5. Buat sebuah file README.md yang berisikan nama benda berikut empat foto yang telah Anda ambil sebelumnya.
-6. Jangan lupa untuk melakukan commit dan push perubahan.
-
-Deadline: Rabu, 2021/09/22, 07.00 AM
-
----
+## Hasil pengerjaan Lanjutan Tugas 1
+![Daun depan atas dan kiri atas](https://media.giphy.com/media/rDp9OPMGgZUiqYU20S/giphy.gif)
+Keterangan : 
+- Pada gambar sebelah kiri menggunakan gambar daun dari sudut depan atas 
+- Pada gambar sebelah kanan menggunakan gambar daun dari sudut kiri atas  
 
 ## Hasil Pengerjaan Tugas 1
 
