@@ -10,6 +10,7 @@ Kelas : Grafika Komputer D
 
 ## Hasil pengerjaan Lanjutan Tugas 1
 ![Daun depan atas dan kiri atas](https://media.giphy.com/media/rDp9OPMGgZUiqYU20S/giphy.gif)
+
 Keterangan : 
 - Pada gambar sebelah kiri menggunakan gambar daun dari sudut depan atas 
 - Pada gambar sebelah kanan menggunakan gambar daun dari sudut kiri atas  
